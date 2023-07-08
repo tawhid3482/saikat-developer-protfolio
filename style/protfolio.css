@@ -1,0 +1,47 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.orange {
+    color: #FD6E0A;
+
+}
+
+.btn-primary {
+    border-radius: 5px;
+    background: #FD6E0A;
+
+}
+
+
+/* nav style */
+nav {
+    display: flex;
+
+}
+
+.nav-titale {
+
+    color: #181818;
+    font-size: 45px;
+    font-weight: 800;
+
+}
+
+nav>ul {
+    display: flex;
+
+}
+
+nav li {
+    list-style: none;
+    margin-right: 50px;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: #474747;
+
+}
