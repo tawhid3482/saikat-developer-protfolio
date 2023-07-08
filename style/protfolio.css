@@ -102,6 +102,13 @@ nav a {
 
 
 /* main style start */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+
+}
+
+
 section .titale {
     color: #181818;
     text-align: center;
@@ -124,5 +131,19 @@ section .data {
 margin: 130px 0;
 border-radius: 10px;
 background: #FFF8F3;
+
+}
+.about-info-container{
+    justify-content: space-around;
+    display: flex;
+
+
+}
+.about-info{
+text-align: center;
+
+}
+.info-data{
+font-weight: 700;
 
 }
