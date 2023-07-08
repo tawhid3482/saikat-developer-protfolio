@@ -187,3 +187,39 @@ section .data {
 
 
 }
+.resume-container {
+display: flex;
+    gap: 70px;
+
+}
+.resume-item-title{
+    color:  #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+   
+}
+.resume-item-info{
+    color: #757575;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 0;
+
+
+}
+.resume-item-data{
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+
+}
+.resume-container  hr{
+    margin: 30px;
+
+}
+.download-cv{
+    text-align: center;
+    margin-top: 50px;
+
+}
